@@ -12,7 +12,7 @@ This project leverages **RAG** to solve the challenges faced by large language m
 ├── app2.py # Alternative application script
 ├── embedding.py # Script for embedding text into vectors
 ├── glm.py # Script for integrating with large models
-├── index4.html # HTML interface for enhanced user experience
+├── main.py # main code for the program
 ├── ocr3.py # Another OCR implementation
 ├── pdfquery.py # Script for querying PDFs
 ├── requirements.txt # List of Python dependencies
