@@ -20,7 +20,7 @@ Bachelor_project/
 └── Wav2lip/
 
 
-🧠 Project Overview
+###🧠 Project Overview
 
 This repository contains various projects completed during my bachelor's degree, covering the following areas:
 
@@ -32,7 +32,7 @@ Natural Language Processing (NLLB): Research and implementation of multilingual 
 
 Speech and Image Processing (Wav2lip): Implementation of lip-syncing technology driven by speech.
 
-🔧 Tech Stack
+####🔧 Tech Stack
 
 Programming Language: Python
 
