@@ -9,3 +9,16 @@ High-Performance Optimization with TensorRT Objective: To significantly reduce i
 Key Work: Conversion of the fully implemented Wav2Lip model into an NVIDIA TensorRT (TRT) engine. This involved model graph optimization and quantization techniques to leverage GPU acceleration, resulting in substantial speed-up compared to standard framework inference.
 
 This project showcases expertise in both neural network architecture implementation and deployment-level performance optimization.
+
+
+## 🔗 Original Repository
+This project is based on the official Wav2Lip repository. You can find the original repository here:  
+👉 [https://github.com/Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
+
+## 📄 References
+- [Wav2Lip: Accurately Lip-syncing Videos In The Wild](https://arxiv.org/abs/2008.10010)
+- [Sync Labs: High-Definition Lip Syncing API](https://sync.so)
+
+---
+
+> 🧩 This project is for research and educational purposes only. All copyrights belong to the original authors and respective organizations.
