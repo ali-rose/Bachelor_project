@@ -3,8 +3,8 @@
 > **Current Status:** 🚧 **In Progress**  
 > **Last Updated:** October 17, 2025  
 > **Update Details:**  
-> - Added the Deeplearning/exp1 directory  
-> - Updated contents of the Graduation_thesis2 folder
+> - Added the `Deeplearning/exp1` directory  
+> - Updated contents of the `Graduation_thesis2` folder
 
 ---
 
@@ -18,26 +18,25 @@ Bachelor_project/
 ├── Graduation_thesis_1/
 ├── NLLB/
 └── Wav2lip/
+```
 
+---
 
-🧠 Project Overview
+## 🧠 Project Overview
 
 This repository contains various projects completed during my bachelor's degree, covering the following areas:
 
-Deep Learning Experiments: Exploring and implementing various deep learning models and algorithms.
+- **Deep Learning Experiments**: Exploring and implementing various deep learning models and algorithms.
+- **Graduation Thesis Contents**: Including thesis drafts, data analysis, and experimental results.
+- **Natural Language Processing (NLLB)**: Research and implementation of multilingual translation models.
+- **Speech and Image Processing (Wav2lip)**: Implementation of lip-syncing technology driven by speech.
 
-Graduation Thesis Contents: Including thesis drafts, data analysis, and experimental results.
+---
 
-Natural Language Processing (NLLB): Research and implementation of multilingual translation models.
+## 🔧 Tech Stack
 
-Speech and Image Processing (Wav2lip): Implementation of lip-syncing technology driven by speech.
+- **Programming Language**: Python
+- **Deep Learning Frameworks**: PyTorch
+- **Natural Language Processing**: Transformers, Hugging Face
+- **Speech Processing**: Wav2Lip
 
-🔧 Tech Stack
-
-Programming Language: Python
-
-Deep Learning Frameworks: PyTorch
-
-Natural Language Processing: Transformers, Hugging Face
-
-Speech Processing: Wav2Lip
