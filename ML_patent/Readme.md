@@ -23,7 +23,6 @@ It provides both a **model training pipeline** and an **interactive prediction t
 ```
 ├── mainmulti.py                # Model training and evaluation script
 ├── ui.py                       # PyQt5 GUI for real-time prediction
-└── requirements.txt             # Project dependencies
 ```
 
 ---
@@ -94,14 +93,6 @@ You can:
 * **Visualization:** Matplotlib-based feature importance and result plots
 
 ---
-
-## 🧬 Dependencies
-
-Install all dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 
 **Main Libraries:**
 
