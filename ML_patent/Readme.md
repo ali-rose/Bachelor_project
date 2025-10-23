@@ -59,7 +59,7 @@ python mainmulti.py
 
 This script will:
 
-* Load the dataset `finalmulti(Ozone).xlsx`;
+* Load the dataset;
 * Split the data into training and testing sets;
 * Train an XGBoost model;
 * Output performance metrics;
