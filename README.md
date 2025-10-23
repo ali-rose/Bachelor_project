@@ -17,12 +17,23 @@
 
 ```plaintext
 Bachelor_project/
+├── AI_related_Algorithm/
+├── C++ programming/
 ├── Deeplearning/
 │   └── exp1/
 ├── Graduation_thesis2/
 ├── Graduation_thesis_1/
+├── ML_patent/
+│   └── Xgboost/
+│   └── LightGBM/
+├── Machine learning/
+├── Machine vision/
 ├── NLLB/
-└── Wav2lip/
+├── Reinforcement learning/
+├── Robotics/
+├── Wav2lip/
+└── README.md
+
 ```
 
 ---
