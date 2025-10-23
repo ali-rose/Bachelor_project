@@ -1,9 +1,9 @@
 # 🎓 Bachelor Project
 
 > **Current Status:** 🚧 **In Progress**  
-> **Last Updated:** October 17, 2025  
+> **Last Updated:** October 23, 2025  
 > **Update Details:**  
-> - Added the `Deeplearning/exp1` directory  
+> - Added the `ML_patent` directory  
 > - Updated contents of the `Graduation_thesis2` folder
 
 ---
