@@ -4,7 +4,12 @@
 > **Last Updated:** October 23, 2025  
 > **Update Details:**  
 > - Added the `ML_patent` directory  
-> - Updated contents of the `Graduation_thesis2` folder
+> - Added the `Machine learning` directory
+> - Added the `Machine vision` directory  
+> - Added the `Deep learning` directory  
+> - Added the `Reinforcement learning` directory  
+> - Added the `AI_related_Algorithm` directory  
+> - Added the `Robotics` directory  
 
 ---
 
