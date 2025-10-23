@@ -24,7 +24,7 @@ Bachelor_project/
 ├── Graduation_thesis2/
 ├── Graduation_thesis_1/
 ├── ML_patent/
-│   └── Xgboost/
+│   ├── Xgboost/
 │   └── LightGBM/
 ├── Machine learning/
 ├── Machine vision/
