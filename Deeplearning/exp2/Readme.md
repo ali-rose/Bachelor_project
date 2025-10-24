@@ -10,7 +10,7 @@ The experiment builds on *Fashion-MNIST* using fully connected neural networks i
 
 ```plaintext
 ├── lab2.py                                        # Core experiment code (PyTorch)
-├── lab2.ipnyb
+├── lab2.ipynb
 ├── p1.png                           
 ├── p2.png                            
 ├── p3.png                        
