@@ -19,6 +19,7 @@ The project focuses on implementing Softmax Regression and Multi-Layer Perceptro
 ├── 7.png
 ├── 8.png
 ├── exp1.py
+├── exp1.ipynb
 ```
 
 ---
