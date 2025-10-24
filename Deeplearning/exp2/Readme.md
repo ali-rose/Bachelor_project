@@ -10,13 +10,19 @@ The experiment builds on *Fashion-MNIST* using fully connected neural networks i
 
 ```plaintext
 ├── lab2.py                                        # Core experiment code (PyTorch)  
-├── 报告中附加题图像汇总/                          # Additional visual outputs used in report  
-├── 要求一高斯初始化图像/                          # Gaussian initialization - Experiment 1 results  
-├── 要求一Xavier初始化图像/                        # Xavier initialization - Experiment 1 results  
-├── 要求二高斯初始化图像/                          # Gaussian initialization - Experiment 2 results  
-├── 要求二Xavier初始化图像/                        # Xavier initialization - Experiment 2 results  
-├── 要求三高斯初始化图像/                          # Gaussian initialization - Experiment 3 results  
-└── 要求三Xavier初始化图像/                        # Xavier initialization - Experiment 3 results
+├── p1.png                           
+├── p2.png                            
+├── p3.png                        
+├── p4.png                         
+├── p5.png                     
+├── p6.png                          
+├── p7.png
+├── p8.png
+├── p9.png
+├── p10.png
+├── p11.png
+├── p12.png
+├── p13.png                       
 ```
 
 ---
