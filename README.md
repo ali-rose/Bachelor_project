@@ -1,7 +1,7 @@
 # 🎓 Bachelor Project
 
 > **Current Status:** 🚧 **In Progress**  
-> **Last Updated:** October 24, 2025  
+> **Last Updated:** October 29, 2025  
 > **Update Details:**  
 > - updated the `ML_patent` directory  
 > - updated the `Machine learning` directory
