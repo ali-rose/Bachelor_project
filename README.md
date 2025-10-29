@@ -7,7 +7,7 @@
 > - updated the `Machine learning` directory
 > - Added the `Machine vision` directory  
 > - Added the `Reinforcement learning` directory  
-> - Added the `AI_related_Algorithm` directory  
+> - updated the `AI_related_Algorithm` directory  
 > - Added the `Robotics` directory  
 
 ---
