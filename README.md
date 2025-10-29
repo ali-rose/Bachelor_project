@@ -3,10 +3,9 @@
 > **Current Status:** 🚧 **In Progress**  
 > **Last Updated:** October 24, 2025  
 > **Update Details:**  
-> - Added the `ML_patent` directory  
-> - Added the `Machine learning` directory
+> - updated the `ML_patent` directory  
+> - updated the `Machine learning` directory
 > - Added the `Machine vision` directory  
-> - updated the `Deep learning` directory  
 > - Added the `Reinforcement learning` directory  
 > - Added the `AI_related_Algorithm` directory  
 > - Added the `Robotics` directory  
