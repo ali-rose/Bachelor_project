@@ -12,8 +12,7 @@ The project files are organized as follows:
 
 ```text
 .
-├── 报告.pdf                        # 📄 Final Detailed Experiment Report
-├── 设计轨迹.py                     # 🐍 Script: Cubic polynomial trajectory planning (0-10s)
+├── 设计轨迹.py                      # 🐍 Script: Cubic polynomial trajectory planning (0-10s)
 ├── 末端位姿.py                     # 🐍 Script: End-effector pose calculation & visualization
 ├── 末端速度曲线.py                 # 🐍 Script: End-effector velocity profile analysis
 ├── PD控制器.py                     # 🐍 Script: PD Controller simulation
