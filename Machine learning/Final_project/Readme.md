@@ -1,12 +1,23 @@
+这里为您准备了完整的 `README.md` 文档。它完全参照了您提供的 Lab 1 的风格（图标、结构、排版），并根据 PDF 实验报告的内容进行了精准的总结。
 
+**关于上传文件的说明：**
+为了匹配此文档，请确保在 GitHub 仓库根目录下上传以下文件和文件夹（保持您当前的目录结构）：
+
+1. **文件夹 `pop-music/**` (包含: `lab1.py`, `lab2.py`, `lab3.py`, `mars_tianchi_*.csv` 等)
+2. **文件夹 `news/**` (包含: `lab1.py`, `cnews.train.txt`, `newslog.txt`)
+3. **文件夹 `risk trading/**` (包含: `logistic.py`, `Xgboost.py`, `random_forest.py`, `train.csv`, `pred.csv` 等)
+4. **文件 `实验报告.pdf**`
+5. **文件 `requirements.txt**` (建议创建此文件，列出 pandas, sklearn, xgboost 等库)
+
+以下是可直接复制的 Markdown 内容：
 
 ```markdown
 # 🎓 Machine Learning Final Assignment — Comprehensive Analysis
 
 ## 📘 Project Overview
-[cite_start]This repository contains the source code, datasets, and final report for the **Machine Learning Final Assignment**[cite: 1]. The project consists of three distinct experimental tasks covering **Time Series Prediction**, **Text Classification**, and **Risk Identification**.
+This repository contains the source code, datasets, and final report for the **Machine Learning Final Assignment**. The project consists of three distinct experimental tasks covering **Time Series Prediction**, **Text Classification**, and **Risk Identification**.
 
-[cite_start]The experiments compare various algorithms (XGBoost, ARIMA, SVM, Logistic Regression, Random Forest) to solve real-world data problems[cite: 8, 278, 434].
+The experiments compare various algorithms (XGBoost, ARIMA, SVM, Logistic Regression, Random Forest) to solve real-world data problems.
 
 ## ⚙️ Folder Structure
 
@@ -38,73 +49,39 @@
 
 **Goal:** Predict the popularity trend of artists based on historical playback data from Alibaba Music.
 
-* 
-**Models Used:** XGBoost (Regression) vs. ARIMA.
-
-
-* 
-**Techniques:** Rolling window smoothing (7-day), Lag features, Time-series cross-validation.
-
-
+* **Models Used:** XGBoost (Regression) vs. ARIMA.
+* **Techniques:** Rolling window smoothing (7-day), Lag features, Time-series cross-validation.
 
 | Model | Score (F-Value) | Outcome |
 | --- | --- | --- |
-| **XGBoost** | **8246.65** | ✅ **Best Performance** 
-
- |
-| ARIMA | -421.72 | Poor (Sensitive to zero-inflated data) 
-
- |
+| **XGBoost** | **8246.65** | ✅ **Best Performance** |
+| ARIMA | -421.72 | Poor (Sensitive to zero-inflated data) |
 
 ### 2. 📰 News Topic Classification (NLP)
 
 **Goal:** Classify news articles into 10 categories (Sports, Finance, Tech, etc.) using a dataset of 50,000 records.
 
-* 
-**Models Used:** Logistic Regression, SVM, Naive Bayes.
-
-
-* 
-**Techniques:** TF-IDF Vectorization, Label Encoding.
-
-
+* **Models Used:** Logistic Regression, SVM, Naive Bayes.
+* **Techniques:** TF-IDF Vectorization, Label Encoding.
 
 | Model | Test Accuracy | Observation |
 | --- | --- | --- |
-| **SVM** | **0.8264** | ✅ **Highest Accuracy** 
-
- |
-| Logistic Regression | 0.8202 | Competitive baseline 
-
- |
-| Naive Bayes | 0.7554 | Faster but less accurate 
-
- |
+| **SVM** | **0.8264** | ✅ **Highest Accuracy** |
+| Logistic Regression | 0.8202 | Competitive baseline |
+| Naive Bayes | 0.7554 | Faster but less accurate |
 
 ### 3. 💳 Risk Transaction Identification (Binary Classification)
 
 **Goal:** Identify risky transactions (Label 0/1) from daily trading details.
 
-* 
-**Models Used:** Logistic Regression, XGBoost, Random Forest.
-
-
-* 
-**Metric:** F1 Score (Harmonic mean of Precision and Recall).
-
-
+* **Models Used:** Logistic Regression, XGBoost, Random Forest.
+* **Metric:** F1 Score (Harmonic mean of Precision and Recall).
 
 | Model | F1 Score (Validation) | Performance |
 | --- | --- | --- |
-| **XGBoost** | **0.8644** | ✅ **Top Performer** 
-
- |
-| Random Forest | 0.8571 | Very close second 
-
- |
-| Logistic Regression | 0.7567 | Baseline performance 
-
- |
+| **XGBoost** | **0.8644** | ✅ **Top Performer** |
+| Random Forest | 0.8571 | Very close second |
+| Logistic Regression | 0.7567 | Baseline performance |
 
 ## 🧠 Tech Stack
 
@@ -140,7 +117,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Ailixiaer Ailika (2014137)** 
+**Ailixiaer Ailika (2014137)**
 *Machine Learning Final Assignment*
 
 ## 🪪 License
