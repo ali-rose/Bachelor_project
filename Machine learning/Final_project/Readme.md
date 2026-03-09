@@ -17,7 +17,6 @@ The experiments compare various algorithms (XGBoost, ARIMA, SVM, Logistic Regres
 │   └── artist_forecast_*.csv           # Prediction results
 ├── news/                               # Task 2: News Topic Classification
 │   ├── lab1.py                         # NLP Classification script
-│   ├── cnews.train.txt                 # Text dataset (50k records)
 │   └── newslog.txt                     # Execution logs
 ├── risk trading/                       # Task 3: Risk Transaction Identification
 │   ├── logistic.py                     # Logistic Regression model
