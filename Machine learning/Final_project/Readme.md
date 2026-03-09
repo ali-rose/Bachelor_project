@@ -21,7 +21,6 @@ The experiments compare various algorithms (XGBoost, ARIMA, SVM, Logistic Regres
 │   ├── Xgboost.py                      # XGBoost model
 │   ├── random_forest.py                # Random Forest model
 │   └── *_pred_results.csv              # Output predictions
-├── 实验报告.pdf                         # Full Detailed Experiment Report (PDF)
 └── requirements.txt                    # Project dependencies
 
 ```
