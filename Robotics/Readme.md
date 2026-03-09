@@ -1,7 +1,3 @@
-这是一个为您定制的 `README.md` 文档。它完全适配您当前的目录结构（扁平化结构），并根据 PDF 报告中的 SCARA 机器人实验内容进行了专业的总结。
-
-您只需要将此代码块复制并保存为 `README.md`，然后连同您 `ls` 命令下列出的所有 `.py` 文件、图片和 PDF 报告一起上传到 GitHub 仓库即可。
-
 ```markdown
 # 🤖 Robotics Final Project — SCARA Robot Control & Simulation
 
@@ -115,7 +111,7 @@ python 施加外力的控制器.py
 
 ## 👨‍💻 Author
 
-**Ailixiaer Ailika (2014137)**
+**Ailixiaer Ailika **
 *College of Artificial Intelligence, Nankai University*
 
 ## 🪪 License
