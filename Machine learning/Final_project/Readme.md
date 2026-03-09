@@ -1,16 +1,3 @@
-这里为您准备了完整的 `README.md` 文档。它完全参照了您提供的 Lab 1 的风格（图标、结构、排版），并根据 PDF 实验报告的内容进行了精准的总结。
-
-**关于上传文件的说明：**
-为了匹配此文档，请确保在 GitHub 仓库根目录下上传以下文件和文件夹（保持您当前的目录结构）：
-
-1. **文件夹 `pop-music/**` (包含: `lab1.py`, `lab2.py`, `lab3.py`, `mars_tianchi_*.csv` 等)
-2. **文件夹 `news/**` (包含: `lab1.py`, `cnews.train.txt`, `newslog.txt`)
-3. **文件夹 `risk trading/**` (包含: `logistic.py`, `Xgboost.py`, `random_forest.py`, `train.csv`, `pred.csv` 等)
-4. **文件 `实验报告.pdf**`
-5. **文件 `requirements.txt**` (建议创建此文件，列出 pandas, sklearn, xgboost 等库)
-
-以下是可直接复制的 Markdown 内容：
-
 ```markdown
 # 🎓 Machine Learning Final Assignment — Comprehensive Analysis
 
@@ -117,8 +104,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Ailixiaer Ailika (2014137)**
-*Machine Learning Final Assignment*
+**Ailixiaer Ailika **
 
 ## 🪪 License
 
