@@ -12,8 +12,6 @@ The experiments compare various algorithms (XGBoost, ARIMA, SVM, Logistic Regres
 .
 ├── pop-music/                          # Task 1: Music Trend Prediction
 │   ├── lab1.py / lab2.py / lab3.py     # Source code for ARIMA & XGBoost
-│   ├── mars_tianchi_songs.csv          # Song artist data
-│   ├── mars_tianchi_user_actions.csv   # User playback history
 │   └── artist_forecast_*.csv           # Prediction results
 ├── news/                               # Task 2: News Topic Classification
 │   ├── lab1.py                         # NLP Classification script
@@ -22,7 +20,6 @@ The experiments compare various algorithms (XGBoost, ARIMA, SVM, Logistic Regres
 │   ├── logistic.py                     # Logistic Regression model
 │   ├── Xgboost.py                      # XGBoost model
 │   ├── random_forest.py                # Random Forest model
-│   ├── train.csv / pred.csv            # Training and prediction datasets
 │   └── *_pred_results.csv              # Output predictions
 ├── 实验报告.pdf                         # Full Detailed Experiment Report (PDF)
 └── requirements.txt                    # Project dependencies
