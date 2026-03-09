@@ -1,13 +1,11 @@
 # 🎓 Bachelor Project
 
 > **Current Status:** 🚧 **In Progress**  
-> **Last Updated:** October 31, 2025  
+> **Last Updated:** March 9, 2026  
 > **Update Details:**  
-> - updated the `Machine learning` directory
 > - Added the `Machine vision` directory  
-> - Added the `Reinforcement learning` directory  
-> - updated the `AI_related_Algorithm` directory  
-> - Added the `Robotics` directory  
+> - Added the `Reinforcement learning` directory
+> - Added the `C++_programming` directory
 
 ---
 
@@ -16,15 +14,28 @@
 ```plaintext
 Bachelor_project/
 ├── AI_related_Algorithm/
+│   └── exp1/
+│   └── exp2/
+│   └── exp3/
+│   └── exp4/
 ├── C++ programming/
 ├── Deeplearning/
 │   └── exp1/
+│   └── exp2/
+│   └── exp3/
+│   └── exp4/
 ├── Graduation_thesis2/
 ├── Graduation_thesis_1/
 ├── ML_patent/
 │   ├── Xgboost/
 │   └── LightGBM/
 ├── Machine learning/
+│   └── exp1/
+│   └── exp2/
+│   └── exp3/
+│   └── exp4/
+│   └── exp5/
+│   └── Final_project/
 ├── Machine vision/
 ├── NLLB/
 ├── Reinforcement learning/
